@@ -1,5 +1,6 @@
 ## This is the homepage of QianRuan
 
+<img src="2017Apr30smiley-face.jpg">
 Qian Ruan is currently student at TU Berlin, Germany. She studies Business Computer Science (Wirtschaftsinformatik). 
 
 ## Welcome to GitHub Pages
