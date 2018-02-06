@@ -1,3 +1,7 @@
+## This is the homepage of QianRuan
+
+Qian Ruan is currently student at TU Berlin, Germany. She studies Business Computer Science (Wirtschaftsinformatik). 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QianRuan/qianruan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
