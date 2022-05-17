@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Qian RUAN"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,14 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qian RUAN"
+  #name             : "Qian RUAN"
   avatar           : "QR_CV.jpg"
   #bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  twitter          : "https://twitter.com/QianRuan_"
+  github           : "https://github.com/QianRuan"
   googlescholar    : "https://scholar.google.com/citations?user=LcEe3_EAAAAJ&hl=en"
-  email            :
+  email            : "qianruan.work@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QianRuan"
+  
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +111,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/QianRuan_"
+  
   vine             :
   weibo            :
   xing             :
