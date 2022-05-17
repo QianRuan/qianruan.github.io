@@ -7,7 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian RUAN"
+title                    : <a class="site-title" href="https://timbmg.github.io">
+                                    <div class="logo-name-wrapper">
+                                    <img src="https://qianruan.github.io/images/QR_logo.png" alt="🌳" />
+                                     <div class="name">Qian RUAN</div>
+                                      </div>
+                                      </a>
 title_separator          : "-"
 name                     : &name "Qian Ruan"
 description              : &description "personal description"
