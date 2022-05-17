@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : https://qianruan.github.io/images/QR_logo_30x37.png "Qian RUAN"
+title                    :  "<img src="https://qianruan.github.io/images/QR_logo_30x37.png" />Qian RUAN"
 title_separator          : "-"
 name                     : &name "Qian Ruan"
 description              : &description "personal description"
