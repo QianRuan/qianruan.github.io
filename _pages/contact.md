@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 \
-Feel free to drop me message: [qianruan.work@gmail.com]{mailto:qianruan.work@gmail.com}
+Feel free to drop me message: qianruan.work@gmail.com
     
