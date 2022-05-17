@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<a href="QianRuan_CV_online.pdf" download>Click to Download</a>
+<a href="QianRuan_CV_online.pdf" download>My CV</a>
