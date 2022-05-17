@@ -2,7 +2,7 @@
 title: "HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information"
 collection: publications
 permalink: /publication/2022-05-histruct-acl2022-F
-date: 2022-05
+date: 2022-05-22
 venue: 'Findings of ACL2022'
 paperurl: 'https://arxiv.org/abs/2203.09629'
 citation: 'Qian Ruan, Malte Ostendorff, and Georg Rehm. 2022. HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information. In:
