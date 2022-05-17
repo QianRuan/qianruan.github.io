@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-<a href="QianRuan_CV_online.pdf">My CV</a>
+<a href="https://raw.githubusercontent.com/qianruan/qianruan.github.io/master/_pages/QianRuan_CV_online.pdf">My CV</a>
+
