@@ -86,8 +86,8 @@ author:
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  twitter          : "https://twitter.com/QianRuan_"
-  github           : "https://github.com/QianRuan"
+  twitter          : "QianRuan_"
+  github           : "QianRuan"
   googlescholar    : "https://scholar.google.com/citations?user=LcEe3_EAAAAJ&hl=en"
   email            : "qianruan.work@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
