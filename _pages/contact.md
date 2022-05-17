@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "CONTACT"
-excerpt: "contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
+redirect_from:
+  - /contact
 ---
 
 \
