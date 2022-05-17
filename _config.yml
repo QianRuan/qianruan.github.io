@@ -7,12 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <a class="site-title" href="https://qianruan.github.io">
-                                    <div class="logo-name-wrapper">
-                                    <img src="https://qianruan.github.io/images/QR_logo.png" sizes="32x32"/>
-                                     <div class="name">Qian RUAN</div>
-                                      </div>
-                                      </a>
+title                    : "Qian RUAN"
 title_separator          : "-"
 name                     : &name "Qian Ruan"
 description              : &description "personal description"
