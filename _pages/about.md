@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello and welcome to Qian's homepage"
+title: "HELLO and WELCOME to Qian's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
