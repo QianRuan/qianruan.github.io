@@ -16,5 +16,6 @@ Previously, I obtained my Master's degree from [Technical University of Berlin (
 My current research interests focus on natural language processing and natural language generation, particularly in language modeling, text summarization and text generation.
 
 "QR_logo.png"
-![]("https://raw.githubusercontent.com/qianruan/qianruan.github.io/master/images/QR_logo.png")
+#![]("https://raw.githubusercontent.com/qianruan/qianruan.github.io/master/images/QR_logo.png")
+![](QR_logo.png)
 
